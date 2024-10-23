@@ -1,10 +1,10 @@
-# 💫 About Me:
-🔭 Xin chào mình là Nguyễn Tấn Phát<br>
-👯 thuộc nhóm 2 <br>
+# 💫 Về tôi:
+🔭 Xin chào mình là Nguyễn Tấn Phát Sinh viên HUFLIT <br>
+👯 thuộc nhóm 2 của Công nghệ phần mềm Thầy Khoa Thứ 4 Ca 2<br>
 🤝 Mình đã từng làm qua các web:<br>
 🌱 Shoppe, Nhaccuatui, linkedin<br>
-💬 <br>
-⚡ Fun fact
+💬 Mà sinh viên 22DH112654<br>
+⚡ Fun fact Los Angeles hợp pháp hóa cá độ dưới dạng cờ bạc
 
 
 ## 🌐 Socials:
@@ -31,15 +31,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 💻 Ngôn ngũ mình sử dụng:
+# 💻 Ngôn ngữ mình sử dụng:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NguyenTanPhat_T4_Ca2_-Ca-do&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Thành tựu
+Chưa có gì nổi bật :neutral_face:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenTanPhat_T4_Ca2_-Ca-do&icon=0&color=0)](https://visitcount.itsvg.in)
